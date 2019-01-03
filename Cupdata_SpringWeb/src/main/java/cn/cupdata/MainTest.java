@@ -9,6 +9,10 @@ public class MainTest {
         aa.setAge(1223);
 
         System.out.println("111在哪在哪安徽");
+        System.out.println("111在哪在哪安徽");
+        System.out.println("111在哪在哪安徽");
+        System.out.println("111在哪在哪安徽");
+        System.out.println("111在哪在哪安徽");
         System.out.println("1");
         System.out.println("111");
         System.out.println("1在哪");
