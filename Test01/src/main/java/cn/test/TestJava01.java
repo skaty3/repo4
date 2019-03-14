@@ -16,6 +16,7 @@ public class TestJava01 {
         DecimalFormat format1 = new DecimalFormat("#");
 
         System.out.println(1111111);
+        System.out.println(22222222);
 
     }
 
